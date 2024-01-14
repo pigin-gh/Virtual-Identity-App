@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Virtual Identity App</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="scanner">Scanner</string>
+    <string name="my_qr_code">Scan my QR</string>
+    <string name="username">User name</string>
+    <string name="country">Country</string>
+    <string name="save">Save</string>
+    <string name="set_user_data">Please, enter your data in profile</string>
+    <string name="scan_the_code">Scan the code</string>
+    <string name="user_data">User data</string>
+    <string name="ok">Ok</string>
+    <string name="name_and_second_name">Name and Second name</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="phone">Phone</string>
+    <string name="passport">Passport No</string>
+    <string name="pesel">PESEL</string>
+    <string name="save_user_data">Save user data</string>
+    <string name="enter_your_data">Please, enter your data</string>
+</resources>
